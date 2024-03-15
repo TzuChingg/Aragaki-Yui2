@@ -1,0 +1,1120 @@
+[
+    {
+        "daughter-2": {
+            "talking-3-1-1": [
+                {
+                    "act-3-1-1": [
+                        {
+                            "Option3": "act-4-3-1",
+                            "Content3": "未滿16歲的議題",
+                            "sContent3": "未滿16歲的議題小孩才14歲，發生性行為後，好像懷孕了怎麼辦…"
+                        },
+                        {
+                            "Option3": "act-4-1-1",
+                            "Content3": "未滿20歲的議題",
+                            "sContent3": "未滿20歲的議題小孩已經19歲了，可以自己決定要不要生嗎？（112年修正成未滿18歲）"
+                        }
+                    ],
+                    "familyRelation-3-1-1": [
+                        {
+                            "Option3": "familyRelation-4-5",
+                            "Content3": "我該如何跟孩子討論？",
+                            "sContent3": "我該如何跟孩子討論？為什麼孩子不願意說？或是不早點告訴我們(家長)呢？"
+                        },
+                        {
+                            "Option3": "familyRelation-4-6",
+                            "Content3": "我該負的相關責任",
+                            "sContent3": "我該負的相關責任孩子懷孕，我要怎麼做？"
+                        }
+                    ],
+                    "medical-3-1-1": [
+                        {
+                            "Option3": "medical-4-1",
+                            "Content3": "可以中止懷孕嗎？",
+                            "sContent3": "可以中止懷孕嗎？一定要我(家長)出面簽同意書嗎？"
+                        },
+                        {
+                            "Option3": "medical-4-7",
+                            "Content3": "可以買事後避孕藥嗎？",
+                            "sContent3": "可以買事後避孕藥嗎？可以去藥局買事後避孕藥嗎？"
+                        },
+                        {
+                            "Option3": "act-3-1",
+                            "Content3": "未成年拿避孕藥會被通報？",
+                            "sContent3": "未成年拿避孕藥會被通報？未成年去婦產科診所就醫  或是拿事後避孕藥會被通報嗎？"
+                        },
+                        {
+                            "Option3": "medical-4-8",
+                            "Content3": "懷孕前的徵兆？",
+                            "sContent3": "懷孕前的徵兆？女兒最近有胸部腫脹、頭痛、反胃、吃很多等狀況，跟懷孕的徵兆很像，這樣是懷孕嗎？還是只是月經快來呢？"
+                        },
+                        {
+                            "Option3": "medical-4-8",
+                            "Content3": "如何確定女兒有沒有懷孕",
+                            "sContent3": "如何確定女兒有沒有懷孕女兒現在有沒有懷孕呢？"
+                        },
+                        {
+                            "Option3": "medical-4-9",
+                            "Content3": "吃避孕藥，月經沒來？",
+                            "sContent3": "吃避孕藥，月經沒來？吃了避孕藥、但是月經還沒有來？"
+                        },
+                        {
+                            "Option3": "medical-4-10",
+                            "Content3": "懷孕週數怎麼算？",
+                            "sContent3": "懷孕週數怎麼算？懷孕週數怎麼算？"
+                        },
+                        {
+                            "Option3": "medical-4-11",
+                            "Content3": "假性月經是什麼？",
+                            "sContent3": "假性月經是什麼？女兒月經都有來？這樣還會懷孕嗎？"
+                        }
+                    ]
+                }
+            ],
+            "unintended-3-1-2": [
+                {
+                    "act-4-2-1": [
+                        {
+                            "Option3": "act-5-1-1",
+                            "Content3": "共同撫養，但我不同意",
+                            "sContent3": "共同撫養，但我不同意女兒想和男朋友想要共同撫養小孩， 但我怎麼能放心讓小孩養小小孩呢？"
+                        },
+                        {
+                            "Option3": "act-5-2",
+                            "Content3": "已分手，獨自撫養",
+                            "sContent3": "已分手，獨自撫養女兒已經跟男朋友分手了，女方可以自己養小孩嗎？"
+                        },
+                        {
+                            "Option3": "act-5-3",
+                            "Content3": "被通報上法院",
+                            "sContent3": "被通報上法院被通報會要上法院嗎？"
+                        },
+                        {
+                            "Option3": "act-5-4",
+                            "Content3": "無法人工流產，也無法撫養",
+                            "sContent3": "無法人工流產，也無法撫養女兒懷孕週數已經沒辦法人工流產了， 但是我真的沒辦法養小孩，到底該怎麼辦"
+                        },
+                        {
+                            "Option3": "familyRelation-4-3",
+                            "Content3": "滿18歲想生，父母不同意",
+                            "sContent3": "滿18歲想生，父母不同意我18歲，想要生下孩子， 但我父母強迫我拿掉，我可以怎麼辦？"
+                        },
+                        {
+                            "Option3": "act-5-5",
+                            "Content3": "不知道孩子的生父",
+                            "sContent3": "不知道孩子的生父會有監護權相關問題？"
+                        }
+                    ],
+                    "economy-4-1-2": [
+                        {
+                            "Option3": "economy-5-1",
+                            "Content3": "補助問題",
+                            "sContent3": "補助問題生下寶寶可以申請什麼補助？政府可以幫我嗎？"
+                        },
+                        {
+                            "Option3": "economy-5-3",
+                            "Content3": "托育問題",
+                            "sContent3": "托育問題無法親自顧寶寶，寶寶怎麼辦"
+                        }
+                    ],
+                    "familyRelation-4-2-2": [
+                        {
+                            "Option3": "familyRelation-5-5",
+                            "Content3": "我的孩子好像懷孕了！",
+                            "sContent3": "我的孩子好像懷孕了！家中還有長輩，一定沒有辦法接受，沒有辦法讓他在家裡繼續住下去，該怎麼辦呢？"
+                        }
+                    ],
+                    "heartTohearts-4-1": [
+                        {
+                            "Option3": "heartTohearts-5-1",
+                            "Content3": "懷孕性行為",
+                            "sContent3": "懷孕性行為懷孕了還可以發生性行為嗎？"
+                        },
+                        {
+                            "Option3": "familyRelation-5-3",
+                            "Content3": "不知道生父是誰",
+                            "sContent3": "不知道生父是誰我不知道孩子的生父是誰？"
+                        }
+                    ],
+                    "medical-3-2-1": [
+                        {
+                            "Option3": "medical-4-2",
+                            "Content3": "寶寶發育週期及產檢？",
+                            "sContent3": "寶寶發育週期及產檢？一定要有家長幫我簽同意書嗎？ 我男友成年了可以幫我簽嗎？"
+                        },
+                        {
+                            "Option3": "medical-4-3",
+                            "Content3": "意外流產？",
+                            "sContent3": "意外流產？一定要有家長幫我簽同意書嗎？ 我男友成年了可以幫我簽嗎？"
+                        },
+                        {
+                            "Option3": "medical-4-4",
+                            "Content3": "分娩計畫",
+                            "sContent3": "分娩計畫一定要有家長幫我簽同意書嗎？ 我男友成年了可以幫我簽嗎？"
+                        },
+                        {
+                            "Option3": "medical-4-5",
+                            "Content3": "產檢計畫",
+                            "sContent3": "產檢計畫產檢做些什麼呢？會需要花多少錢"
+                        }
+                    ],
+                    "mentalCare-4-1-1": [
+                        {
+                            "Option3": "mentalCare-5-1",
+                            "Content3": "面對孩子懷孕",
+                            "sContent3": "面對孩子懷孕 面對孩子的非預期懷孕，你可能有很多未知和恐懼的擔心，無論是哪一種情緒，這都是陪伴你迎接新生命的過程喔!! "
+                        },
+                        {
+                            "Option3": "mentalCare-5-2",
+                            "Content3": "心理狀況",
+                            "sContent3": "心理狀況不論孕期或是產後，媽媽的心理狀況都不容忽視，需要家人和朋友給予關心與支持"
+                        },
+                        {
+                            "Option3": "mentalCare-5-3",
+                            "Content3": "流產後憂鬱",
+                            "sContent3": "流產後憂鬱流產後，女兒看起來鬱鬱寡歡，該怎麼辦？"
+                        }
+                    ],
+                    "parenting-4-1": [
+                        {
+                            "Option3": "parenting-5-1",
+                            "Content3": "寶寶問題",
+                            "sContent3": "寶寶問題寶寶歸剛欸!! 到底怎麼辦？"
+                        },
+                        {
+                            "Option3": "parenting-5-2",
+                            "Content3": "如何照顧",
+                            "sContent3": "如何照顧媽媽很崩潰？到底要怎麼照顧？"
+                        },
+                        {
+                            "Option3": "parenting-5-3",
+                            "Content3": "寶寶發展",
+                            "sContent3": "寶寶發展寶寶的每一步發展都很重要，你了解孩子的成長軌跡嗎？"
+                        }
+                    ],
+                    "study-4-1-1": [
+                        {
+                            "Option3": "study-5-1",
+                            "Content3": "不想讓老師同學知道",
+                            "sContent3": "不想讓老師同學知道我不想讓學校老師和同學知道孩子懷孕了？"
+                        },
+                        {
+                            "Option3": "study-5-1",
+                            "Content3": "學校會強迫休學嗎？",
+                            "sContent3": "學校會強迫休學嗎？學校如果知道孩子懷孕，是不是會強迫她休學？"
+                        }
+                    ],
+                    "unintended-4-2": [
+                        {
+                            "Option3": "unintended-5-7",
+                            "Content3": "出養",
+                            "sContent3": "出養這裡可以打簡短文案，整體比較一致。"
+                        },
+                        {
+                            "Option3": "unintended-6-4",
+                            "Content3": "寄養",
+                            "sContent3": "寄養這裡可以打簡短文案，整體比較一致。"
+                        }
+                    ]
+                }
+            ],
+            "unintended-3-2-2": [
+                {
+                    "FamilyRelation-3-2": [
+                        {
+                            "Option3": "familyRelation-4-7",
+                            "Content3": "父母不同意墮胎",
+                            "sContent3": "父母不同意墮胎我真的沒辦法養育小孩，但是我爸媽不願意我拿掉小孩… "
+                        },
+                        {
+                            "Option3": "familyRelation-4-3",
+                            "Content3": "如何跟爸媽說懷孕了",
+                            "sContent3": "如何跟爸媽說懷孕了不知道怎麼跟我爸媽說，可能懷孕了…"
+                        }
+                    ],
+                    "MentalCare-4-1-1": [
+                        {
+                            "Option3": "mentalCare-5-1",
+                            "Content3": "面對孩子懷孕",
+                            "sContent3": "面對孩子懷孕 面對孩子的非預期懷孕，你可能有很多未知和恐懼的擔心，無論是哪一種情緒，這都是陪伴你迎接新生命的過程喔!! "
+                        },
+                        {
+                            "Option3": "mentalCare-5-2",
+                            "Content3": "心理狀況",
+                            "sContent3": "心理狀況不論孕期或是產後，媽媽的心理狀況都不容忽視，需要家人和朋友給予關心與支持"
+                        },
+                        {
+                            "Option3": "mentalCare-5-3",
+                            "Content3": "流產後憂鬱",
+                            "sContent3": "流產後憂鬱流產後，女兒看起來鬱鬱寡歡，該怎麼辦？"
+                        }
+                    ],
+                    "act-3-1-1": [
+                        {
+                            "Option3": "act-4-3-1",
+                            "Content3": "未滿16歲的議題",
+                            "sContent3": "未滿16歲的議題小孩才14歲，發生性行為後，好像懷孕了怎麼辦…"
+                        },
+                        {
+                            "Option3": "act-4-1-1",
+                            "Content3": "未滿20歲的議題",
+                            "sContent3": "未滿20歲的議題小孩已經19歲了，可以自己決定要不要生嗎？（112年修正成未滿18歲）"
+                        }
+                    ]
+                }
+            ]
+        },
+        "unintended-2": {
+            "talking-3": [
+                {
+                    "familyRelation-3-1": [
+                        {
+                            "Option3": "familyRelation-4-1",
+                            "Content3": "會通報家長嗎？",
+                            "sContent3": "會通報家長嗎？我還沒20歲\/16歲會不會通報家長？"
+                        },
+                        {
+                            "Option3": "familyRelation-4-3",
+                            "Content3": "如何跟爸媽說懷孕了",
+                            "sContent3": "如何跟爸媽說懷孕了不知道怎麼跟我爸媽說，可能懷孕了…"
+                        }
+                    ],
+                    "intimacy-3-1": [
+                        {
+                            "Option3": "intimacy-4-1",
+                            "Content3": "15 歲可以買保險套嗎",
+                            "sContent3": "15 歲可以買保險套嗎我想到藥局買保險套，15歲可以買嗎？"
+                        },
+                        {
+                            "Option3": "intimacy-4-2",
+                            "Content3": "可以買事後避孕藥嗎",
+                            "sContent3": "可以買事後避孕藥嗎我可以去藥局買事後避孕藥嗎？"
+                        },
+                        {
+                            "Option3": "intimacy-4-3",
+                            "Content3": "15歲可以買避孕藥嗎",
+                            "sContent3": "15歲可以買避孕藥嗎我現在15歲，可以自行去診所或是藥局購買事前避孕藥嗎？"
+                        },
+                        {
+                            "Option3": "intimacy-4-4",
+                            "Content3": "懷孕問題",
+                            "sContent3": "懷孕問題只在陰道口外面摩擦會懷孕嗎？ 隔著內褲愛撫還會懷孕嗎？體外射精、 安全期、月經來時發生性行為， 是不是不會懷孕？"
+                        },
+                        {
+                            "Option3": "intimacy-4-5",
+                            "Content3": "辨識情人需求",
+                            "sContent3": "辨識情人需求如何辨視你的情人也想要？ 要拒絕可以嗎？"
+                        }
+                    ],
+                    "medical-3-1": [
+                        {
+                            "Option3": "medical-4-1",
+                            "Content3": "我可以中止懷孕嗎？",
+                            "sContent3": "我可以中止懷孕嗎？可以中止懷孕嗎？一定要有家長幫我簽同意書嗎？我男友成年了可以幫我簽嗎？"
+                        },
+                        {
+                            "Option3": "medical-4-7",
+                            "Content3": "可以買事後避孕藥嗎？",
+                            "sContent3": "可以買事後避孕藥嗎？我可以去藥局買事後避孕藥嗎？"
+                        },
+                        {
+                            "Option3": "act-3-1",
+                            "Content3": "未成年拿避孕藥會被通報？",
+                            "sContent3": "未成年拿避孕藥會被通報？未成年去婦產科診所就醫  或是拿事後避孕藥會被通報嗎？"
+                        },
+                        {
+                            "Option3": "medical-4-8",
+                            "Content3": "如何驗孕 \/ 就醫",
+                            "sContent3": "如何驗孕 \/ 就醫怎麼樣確定有沒有懷孕？"
+                        },
+                        {
+                            "Option3": "medical-4-8",
+                            "Content3": "保險套戴反了",
+                            "sContent3": "保險套戴反了保險套戴反了、立刻翻過來，  這樣還會懷孕嗎？"
+                        },
+                        {
+                            "Option3": "medical-4-8",
+                            "Content3": "懷孕前的徵兆？",
+                            "sContent3": "懷孕前的徵兆？我最近有胸部腫脹、頭痛、反胃、吃很多等狀況，跟懷孕的徵兆很像？這樣是懷孕嗎？還是只是月經快來呢？"
+                        },
+                        {
+                            "Option3": "medical-4-8",
+                            "Content3": "保險套破了",
+                            "sContent3": "保險套破了性行為結束後發現保險套破掉，立刻吃了事後避孕藥，還會懷孕嗎？"
+                        },
+                        {
+                            "Option3": "medical-4-9",
+                            "Content3": "吃避孕藥，月經沒來？",
+                            "sContent3": "吃避孕藥，月經沒來？吃了事後避孕藥、但是月經還沒有來？"
+                        },
+                        {
+                            "Option3": "medical-4-10",
+                            "Content3": "懷孕週數怎麼算？",
+                            "sContent3": "懷孕週數怎麼算？懷孕週數怎麼算？"
+                        },
+                        {
+                            "Option3": "medical-4-11",
+                            "Content3": "假性月經是什麼？",
+                            "sContent3": "假性月經是什麼？我月經都有來？這樣還會懷孕嗎？"
+                        }
+                    ],
+                    "talking-4-1": [
+                        {
+                            "Option3": "act-4-3",
+                            "Content3": "我未滿16歲",
+                            "sContent3": "我未滿16歲我才14歲，發生性行為後，好像懷孕了怎麼辦…"
+                        },
+                        {
+                            "Option3": "act-4-1",
+                            "Content3": "我未滿20歲",
+                            "sContent3": "我未滿20歲我已經19歲了，可以自己決定要不要生嗎？（112年修正成未滿18歲）"
+                        }
+                    ]
+                }
+            ],
+            "unintended-3-1": [
+                {
+                    "act-4-2": [
+                        {
+                            "Option3": "act-5-1",
+                            "Content3": "共同撫養，父母不同意",
+                            "sContent3": "共同撫養，父母不同意我和男朋友想要共同撫養小孩， 但父母不同意，我可以怎麼做呢？"
+                        },
+                        {
+                            "Option3": "act-5-2",
+                            "Content3": "已分手，獨自撫養",
+                            "sContent3": "已分手，獨自撫養我已經跟男朋友分手了，可以自己養小孩嗎？"
+                        },
+                        {
+                            "Option3": "act-5-3",
+                            "Content3": "被通報上法院",
+                            "sContent3": "被通報上法院被通報會要上法院嗎？"
+                        },
+                        {
+                            "Option3": "unintended-4-2",
+                            "Content3": "無法人工流產，也無法撫養",
+                            "sContent3": "無法人工流產，也無法撫養我已經沒辦法人工流產了， 但是我真的沒辦法養小孩，到底該怎麼辦"
+                        },
+                        {
+                            "Option3": "familyRelation-5-1",
+                            "Content3": "滿18歲想生，父母不同意",
+                            "sContent3": "滿18歲想生，父母不同意我18歲，想要生下孩子， 但我父母強迫我拿掉，我可以怎麼辦？"
+                        },
+                        {
+                            "Option3": "act-5-1",
+                            "Content3": "共同撫養，父母不同意",
+                            "sContent3": "共同撫養，父母不同意我和男朋友想要共同撫養小孩， 但父母不同意，我可以怎麼做呢？"
+                        },
+                        {
+                            "Option3": "act-5-2",
+                            "Content3": "已分手，獨自撫養",
+                            "sContent3": "已分手，獨自撫養我已經跟男朋友分手了，可以自己養小孩嗎？"
+                        },
+                        {
+                            "Option3": "act-5-3",
+                            "Content3": "被通報上法院",
+                            "sContent3": "被通報上法院被通報會要上法院嗎？"
+                        },
+                        {
+                            "Option3": "unintended-4-2",
+                            "Content3": "無法人工流產，也無法撫養",
+                            "sContent3": "無法人工流產，也無法撫養我已經沒辦法人工流產了， 但是我真的沒辦法養小孩，到底該怎麼辦"
+                        },
+                        {
+                            "Option3": "familyRelation-5-1",
+                            "Content3": "滿18歲想生，父母不同意",
+                            "sContent3": "滿18歲想生，父母不同意我18歲，想要生下孩子， 但我父母強迫我拿掉，我可以怎麼辦？"
+                        }
+                    ],
+                    "economy-4-1": [
+                        {
+                            "Option3": "economy-5-1",
+                            "Content3": "補助問題",
+                            "sContent3": "補助問題生下寶寶可以申請什麼補助？政府可以幫我嗎？"
+                        },
+                        {
+                            "Option3": "economy-5-2",
+                            "Content3": "生活就業問題",
+                            "sContent3": "生活就業問題我可以有哪些生活規劃？"
+                        },
+                        {
+                            "Option3": "economy-5-3",
+                            "Content3": "托育問題",
+                            "sContent3": "托育問題我想要出去工作，寶寶怎麼辦？ 無法親自顧寶寶，寶寶怎麼辦？"
+                        },
+                        {
+                            "Option3": "economy-5-1",
+                            "Content3": "補助問題",
+                            "sContent3": "補助問題生下寶寶可以申請什麼補助？政府可以幫我嗎？"
+                        },
+                        {
+                            "Option3": "economy-5-2",
+                            "Content3": "生活就業問題",
+                            "sContent3": "生活就業問題我可以有哪些生活規劃？"
+                        },
+                        {
+                            "Option3": "economy-5-3",
+                            "Content3": "托育問題",
+                            "sContent3": "托育問題我想要出去工作，寶寶怎麼辦？ 無法親自顧寶寶，寶寶怎麼辦？"
+                        }
+                    ],
+                    "familyRelation-4-2": [
+                        {
+                            "Option3": "familyRelation-5-1",
+                            "Content3": "告知父母",
+                            "sContent3": "告知父母如何向父母告知並得到幫助"
+                        },
+                        {
+                            "Option3": "familyRelation-5-1",
+                            "Content3": "父母不同意",
+                            "sContent3": "父母不同意男方爸媽很支持生下來， 可是女方爸媽不同意，該怎麼辦？"
+                        },
+                        {
+                            "Option3": "familyRelation-5-1",
+                            "Content3": "告知父母",
+                            "sContent3": "告知父母如何向父母告知並得到幫助"
+                        },
+                        {
+                            "Option3": "familyRelation-5-1",
+                            "Content3": "父母不同意",
+                            "sContent3": "父母不同意男方爸媽很支持生下來， 可是女方爸媽不同意，該怎麼辦？"
+                        }
+                    ],
+                    "heartTohearts-4-1": [
+                        {
+                            "Option3": "heartTohearts-5-1",
+                            "Content3": "懷孕性行為",
+                            "sContent3": "懷孕性行為懷孕了還可以發生性行為嗎？"
+                        },
+                        {
+                            "Option3": "familyRelation-5-3",
+                            "Content3": "不知道生父是誰",
+                            "sContent3": "不知道生父是誰我不知道孩子的生父是誰？"
+                        },
+                        {
+                            "Option3": "heartTohearts-5-1",
+                            "Content3": "懷孕性行為",
+                            "sContent3": "懷孕性行為懷孕了還可以發生性行為嗎？"
+                        },
+                        {
+                            "Option3": "familyRelation-5-3",
+                            "Content3": "不知道生父是誰",
+                            "sContent3": "不知道生父是誰我不知道孩子的生父是誰？"
+                        }
+                    ],
+                    "medical-3-2": [
+                        {
+                            "Option3": "medical-4-2",
+                            "Content3": "寶寶發育週期及產檢？",
+                            "sContent3": "寶寶發育週期及產檢？一定要有家長幫我簽同意書嗎？ 我男友成年了可以幫我簽嗎？"
+                        },
+                        {
+                            "Option3": "medical-4-3",
+                            "Content3": "意外流產？",
+                            "sContent3": "意外流產？一定要有家長幫我簽同意書嗎？ 我男友成年了可以幫我簽嗎？"
+                        },
+                        {
+                            "Option3": "medical-4-4",
+                            "Content3": "分娩計畫",
+                            "sContent3": "分娩計畫一定要有家長幫我簽同意書嗎？ 我男友成年了可以幫我簽嗎？"
+                        },
+                        {
+                            "Option3": "medical-4-5",
+                            "Content3": "產檢計畫",
+                            "sContent3": "產檢計畫產檢做些什麼呢？會需要花多少錢"
+                        },
+                        {
+                            "Option3": "medical-4-2",
+                            "Content3": "寶寶發育週期及產檢？",
+                            "sContent3": "寶寶發育週期及產檢？一定要有家長幫我簽同意書嗎？ 我男友成年了可以幫我簽嗎？"
+                        },
+                        {
+                            "Option3": "medical-4-3",
+                            "Content3": "意外流產？",
+                            "sContent3": "意外流產？一定要有家長幫我簽同意書嗎？ 我男友成年了可以幫我簽嗎？"
+                        },
+                        {
+                            "Option3": "medical-4-4",
+                            "Content3": "分娩計畫",
+                            "sContent3": "分娩計畫一定要有家長幫我簽同意書嗎？ 我男友成年了可以幫我簽嗎？"
+                        },
+                        {
+                            "Option3": "medical-4-5",
+                            "Content3": "產檢計畫",
+                            "sContent3": "產檢計畫產檢做些什麼呢？會需要花多少錢"
+                        }
+                    ],
+                    "mentalCare-4-1": [
+                        {
+                            "Option3": "mentalCare-5-1",
+                            "Content3": "面對第一次懷孕",
+                            "sContent3": "面對第一次懷孕你可能有很多未知和恐懼的擔心，無論是哪一種情緒，這都是陪伴你迎接新生命的過程喔!!"
+                        },
+                        {
+                            "Option3": "mentalCare-5-2",
+                            "Content3": "心理狀況",
+                            "sContent3": "心理狀況不論孕期或是產後，媽媽的心理狀況都不容忽視，需要家人和朋友給予關心與支持"
+                        },
+                        {
+                            "Option3": "mentalCare-5-1",
+                            "Content3": "面對第一次懷孕",
+                            "sContent3": "面對第一次懷孕你可能有很多未知和恐懼的擔心，無論是哪一種情緒，這都是陪伴你迎接新生命的過程喔!!"
+                        },
+                        {
+                            "Option3": "mentalCare-5-2",
+                            "Content3": "心理狀況",
+                            "sContent3": "心理狀況不論孕期或是產後，媽媽的心理狀況都不容忽視，需要家人和朋友給予關心與支持"
+                        }
+                    ],
+                    "parenting-4-1": [
+                        {
+                            "Option3": "parenting-5-1",
+                            "Content3": "寶寶問題",
+                            "sContent3": "寶寶問題寶寶歸剛欸!! 到底怎麼辦？"
+                        },
+                        {
+                            "Option3": "parenting-5-2",
+                            "Content3": "如何照顧",
+                            "sContent3": "如何照顧媽媽很崩潰？到底要怎麼照顧？"
+                        },
+                        {
+                            "Option3": "parenting-5-3",
+                            "Content3": "寶寶發展",
+                            "sContent3": "寶寶發展寶寶的每一步發展都很重要，你了解孩子的成長軌跡嗎？"
+                        },
+                        {
+                            "Option3": "parenting-5-1",
+                            "Content3": "寶寶問題",
+                            "sContent3": "寶寶問題寶寶歸剛欸!! 到底怎麼辦？"
+                        },
+                        {
+                            "Option3": "parenting-5-2",
+                            "Content3": "如何照顧",
+                            "sContent3": "如何照顧媽媽很崩潰？到底要怎麼照顧？"
+                        },
+                        {
+                            "Option3": "parenting-5-3",
+                            "Content3": "寶寶發展",
+                            "sContent3": "寶寶發展寶寶的每一步發展都很重要，你了解孩子的成長軌跡嗎？"
+                        }
+                    ],
+                    "study-4-1": [
+                        {
+                            "Option3": "study-5-1",
+                            "Content3": "不想讓老師同學知道",
+                            "sContent3": "不想讓老師同學知道我不想讓學校老師和同學知道我懷孕了？"
+                        },
+                        {
+                            "Option3": "study-5-1",
+                            "Content3": "學校會強迫休學嗎？",
+                            "sContent3": "學校會強迫休學嗎？學校如果知道我懷孕，是不是會強迫我休學？"
+                        },
+                        {
+                            "Option3": "study-5-1",
+                            "Content3": "不想讓老師同學知道",
+                            "sContent3": "不想讓老師同學知道我不想讓學校老師和同學知道我懷孕了？"
+                        },
+                        {
+                            "Option3": "study-5-1",
+                            "Content3": "學校會強迫休學嗎？",
+                            "sContent3": "學校會強迫休學嗎？學校如果知道我懷孕，是不是會強迫我休學？"
+                        }
+                    ],
+                    "unintended-4-2": [
+                        {
+                            "Option3": "unintended-5-7",
+                            "Content3": "出養",
+                            "sContent3": "出養這裡可以打簡短文案，整體比較一致。"
+                        },
+                        {
+                            "Option3": "unintended-6-4",
+                            "Content3": "寄養",
+                            "sContent3": "寄養這裡可以打簡短文案，整體比較一致。"
+                        },
+                        {
+                            "Option3": "unintended-5-7",
+                            "Content3": "出養",
+                            "sContent3": "出養這裡可以打簡短文案，整體比較一致。"
+                        },
+                        {
+                            "Option3": "unintended-6-4",
+                            "Content3": "寄養",
+                            "sContent3": "寄養這裡可以打簡短文案，整體比較一致。"
+                        }
+                    ]
+                }
+            ],
+            "unintended-3-2": [
+                {
+                    "FamilyRelation-3-2": [
+                        {
+                            "Option3": "familyRelation-4-7",
+                            "Content3": "父母不同意墮胎",
+                            "sContent3": "父母不同意墮胎我真的沒辦法養育小孩，但是我爸媽不願意我拿掉小孩… "
+                        },
+                        {
+                            "Option3": "familyRelation-4-3",
+                            "Content3": "如何跟爸媽說懷孕了",
+                            "sContent3": "如何跟爸媽說懷孕了不知道怎麼跟我爸媽說，可能懷孕了…"
+                        }
+                    ],
+                    "MentalCare-4-3": [
+                        {
+                            "Option3": "mentalCare-5-3",
+                            "Content3": "流產後憂鬱 ",
+                            "sContent3": "流產後憂鬱 流產後，總覺得自己很憂鬱，該怎麼辦？ "
+                        }
+                    ],
+                    "act-3-1-2": [
+                        {
+                            "Option3": "act-4-3-2",
+                            "Content3": "我未滿16歲",
+                            "sContent3": "我未滿16歲我才14歲，發生性行為後，好像懷孕了怎麼辦…"
+                        },
+                        {
+                            "Option3": "act-4-3-3",
+                            "Content3": "我未滿20歲",
+                            "sContent3": "我未滿20歲我已經19歲了，可以自己決定要不要生嗎？（112年修正成未滿18歲）"
+                        }
+                    ]
+                }
+            ]
+        },
+        "youngdad-2": {
+            "unintended-3-2-1": [
+                {
+                    "FamilyRelation-4-2-1": [
+                        {
+                            "Option3": "familyRelation-4-3",
+                            "Content3": "如何跟爸媽說懷孕了",
+                            "sContent3": "如何跟爸媽說懷孕了如何跟家長告知及求助？"
+                        }
+                    ],
+                    "MentalCare-4-3-1": [
+                        {
+                            "Option3": "mentalCare-5-3",
+                            "Content3": "流產後憂鬱 ",
+                            "sContent3": "流產後憂鬱 流產後，總覺得女友很憂鬱，該怎麼辦？ "
+                        }
+                    ],
+                    "youngdad-4-2": [
+                        {
+                            "Option3": "act-4-3",
+                            "Content3": "我未滿16歲",
+                            "sContent3": "我未滿16歲我才14歲，和女友發生性行為後，好像懷孕了怎麼辦…"
+                        },
+                        {
+                            "Option3": "act-4-1",
+                            "Content3": "我未滿20歲",
+                            "sContent3": "我未滿20歲女友已經19歲了，可以自己決定要不要生嗎？ (112年修正成未滿18)"
+                        },
+                        {
+                            "Option3": "act-4-5",
+                            "Content3": "我已經成年",
+                            "sContent3": "我已經成年我已經成年，還會遇到什麼問題呢？"
+                        }
+                    ]
+                }
+            ],
+            "unintended-3-3": [
+                {
+                    "act-4-4": [
+                        {
+                            "Option3": "act-5-1",
+                            "Content3": "共同撫養，父母不同意",
+                            "sContent3": "共同撫養，父母不同意我和女友想要共同撫養小孩， 但父母不同意，我可以怎麼做呢？"
+                        },
+                        {
+                            "Option3": "act-5-2",
+                            "Content3": "已分手，獨自撫養",
+                            "sContent3": "已分手，獨自撫養我已經跟女友分手了，可以自己養小孩嗎？"
+                        },
+                        {
+                            "Option3": "act-5-3",
+                            "Content3": "被通報上法院",
+                            "sContent3": "被通報上法院被通報會要上法院嗎？"
+                        },
+                        {
+                            "Option3": "unintended-4-2",
+                            "Content3": "無法人工流產，也無法撫養",
+                            "sContent3": "無法人工流產，也無法撫養我女友已經沒辦法人工流產了， 但是我真的沒辦法養小孩，到底該怎麼辦"
+                        },
+                        {
+                            "Option3": "familyRelation-5-1",
+                            "Content3": "滿18歲想生，父母不同意",
+                            "sContent3": "滿18歲想生，父母不同意我女友18歲，我們想要生下孩子， 但父母強迫我們去拿掉，我可以怎麼辦？"
+                        },
+                        {
+                            "Option3": "act-5-1",
+                            "Content3": "共同撫養，父母不同意",
+                            "sContent3": "共同撫養，父母不同意我和女友想要共同撫養小孩， 但父母不同意，我可以怎麼做呢？"
+                        },
+                        {
+                            "Option3": "act-5-2",
+                            "Content3": "已分手，獨自撫養",
+                            "sContent3": "已分手，獨自撫養我已經跟女友分手了，可以自己養小孩嗎？"
+                        },
+                        {
+                            "Option3": "act-5-3",
+                            "Content3": "被通報上法院",
+                            "sContent3": "被通報上法院被通報會要上法院嗎？"
+                        },
+                        {
+                            "Option3": "unintended-4-2",
+                            "Content3": "無法人工流產，也無法撫養",
+                            "sContent3": "無法人工流產，也無法撫養我女友已經沒辦法人工流產了， 但是我真的沒辦法養小孩，到底該怎麼辦"
+                        },
+                        {
+                            "Option3": "familyRelation-5-1",
+                            "Content3": "滿18歲想生，父母不同意",
+                            "sContent3": "滿18歲想生，父母不同意我女友18歲，我們想要生下孩子， 但父母強迫我們去拿掉，我可以怎麼辦？"
+                        }
+                    ],
+                    "economy-4-2": [
+                        {
+                            "Option3": "economy-5-1",
+                            "Content3": "補助問題",
+                            "sContent3": "補助問題生下寶寶可以申請什麼補助？政府可以幫我嗎？"
+                        },
+                        {
+                            "Option3": "economy-5-2",
+                            "Content3": "生活問題",
+                            "sContent3": "生活問題有什麼工作是可以養活我們這一家的？"
+                        },
+                        {
+                            "Option3": "economy-5-1",
+                            "Content3": "補助問題",
+                            "sContent3": "補助問題生下寶寶可以申請什麼補助？政府可以幫我嗎？"
+                        },
+                        {
+                            "Option3": "economy-5-2",
+                            "Content3": "生活問題",
+                            "sContent3": "生活問題有什麼工作是可以養活我們這一家的？"
+                        }
+                    ],
+                    "familyRelation-4-2": [
+                        {
+                            "Option3": "familyRelation-5-1",
+                            "Content3": "告知父母",
+                            "sContent3": "告知父母如何向父母告知並得到幫助"
+                        },
+                        {
+                            "Option3": "familyRelation-5-1",
+                            "Content3": "父母不同意",
+                            "sContent3": "父母不同意男方爸媽很支持生下來， 可是女方爸媽不同意，該怎麼辦？"
+                        },
+                        {
+                            "Option3": "familyRelation-5-1",
+                            "Content3": "告知父母",
+                            "sContent3": "告知父母如何向父母告知並得到幫助"
+                        },
+                        {
+                            "Option3": "familyRelation-5-1",
+                            "Content3": "父母不同意",
+                            "sContent3": "父母不同意男方爸媽很支持生下來， 可是女方爸媽不同意，該怎麼辦？"
+                        }
+                    ],
+                    "heartTohearts-4-1-1": [
+                        {
+                            "Option3": "heartTohearts-5-1",
+                            "Content3": "懷孕性行為",
+                            "sContent3": "懷孕性行為懷孕了還可以發生性行為嗎？"
+                        },
+                        {
+                            "Option3": "familyRelation-5-2",
+                            "Content3": "養不起小孩",
+                            "sContent3": "養不起小孩我目前也沒有能力養小孩，可以讓女友人工流產嗎？"
+                        },
+                        {
+                            "Option3": "familyRelation-5-3",
+                            "Content3": "不知道生父是誰",
+                            "sContent3": "不知道生父是誰我們只發生一次性行為，我能確認女友肚子的寶寶真的是我的嗎？ "
+                        },
+                        {
+                            "Option3": "heartTohearts-5-1",
+                            "Content3": "懷孕性行為",
+                            "sContent3": "懷孕性行為懷孕了還可以發生性行為嗎？"
+                        },
+                        {
+                            "Option3": "familyRelation-5-2",
+                            "Content3": "養不起小孩",
+                            "sContent3": "養不起小孩我目前也沒有能力養小孩，可以讓女友人工流產嗎？"
+                        },
+                        {
+                            "Option3": "familyRelation-5-3",
+                            "Content3": "不知道生父是誰",
+                            "sContent3": "不知道生父是誰我們只發生一次性行為，我能確認女友肚子的寶寶真的是我的嗎？ "
+                        }
+                    ],
+                    "medical-3-2": [
+                        {
+                            "Option3": "medical-4-2",
+                            "Content3": "寶寶發育週期及產檢？",
+                            "sContent3": "寶寶發育週期及產檢？一定要有家長幫我簽同意書嗎？ 我男友成年了可以幫我簽嗎？"
+                        },
+                        {
+                            "Option3": "medical-4-3",
+                            "Content3": "意外流產？",
+                            "sContent3": "意外流產？一定要有家長幫我簽同意書嗎？ 我男友成年了可以幫我簽嗎？"
+                        },
+                        {
+                            "Option3": "medical-4-4",
+                            "Content3": "分娩計畫",
+                            "sContent3": "分娩計畫一定要有家長幫我簽同意書嗎？ 我男友成年了可以幫我簽嗎？"
+                        },
+                        {
+                            "Option3": "medical-4-5",
+                            "Content3": "產檢計畫",
+                            "sContent3": "產檢計畫產檢做些什麼呢？會需要花多少錢"
+                        },
+                        {
+                            "Option3": "medical-4-2",
+                            "Content3": "寶寶發育週期及產檢？",
+                            "sContent3": "寶寶發育週期及產檢？一定要有家長幫我簽同意書嗎？ 我男友成年了可以幫我簽嗎？"
+                        },
+                        {
+                            "Option3": "medical-4-3",
+                            "Content3": "意外流產？",
+                            "sContent3": "意外流產？一定要有家長幫我簽同意書嗎？ 我男友成年了可以幫我簽嗎？"
+                        },
+                        {
+                            "Option3": "medical-4-4",
+                            "Content3": "分娩計畫",
+                            "sContent3": "分娩計畫一定要有家長幫我簽同意書嗎？ 我男友成年了可以幫我簽嗎？"
+                        },
+                        {
+                            "Option3": "medical-4-5",
+                            "Content3": "產檢計畫",
+                            "sContent3": "產檢計畫產檢做些什麼呢？會需要花多少錢"
+                        }
+                    ],
+                    "mentalCare-4-2": [
+                        {
+                            "Option3": "mentalCare-5-1",
+                            "Content3": "女友孕程的身心變化",
+                            "sContent3": "女友孕程的身心變化面對第一次懷孕，你可能有很多未知的恐懼及擔心，無論是哪一種情緒，都是陪伴你迎接新生命的過程喔！"
+                        },
+                        {
+                            "Option3": "mentalCare-5-2",
+                            "Content3": "心理狀況",
+                            "sContent3": "心理狀況不論孕期或是產後，媽媽的心理狀況都不容忽視，需要家人和朋友給予關心與支持"
+                        },
+                        {
+                            "Option3": "mentalCare-5-4",
+                            "Content3": "身心狀況量測",
+                            "sContent3": "身心狀況量測 面對懷孕的訊息及接種而來要處理及面對的事情， 你可能有很多未知的恐懼及擔心，這是很正常的！ 讓我們來掌握一下你目前的身心狀況吧！"
+                        },
+                        {
+                            "Option3": "mentalCare-5-1",
+                            "Content3": "女友孕程的身心變化",
+                            "sContent3": "女友孕程的身心變化面對第一次懷孕，你可能有很多未知的恐懼及擔心，無論是哪一種情緒，都是陪伴你迎接新生命的過程喔！"
+                        },
+                        {
+                            "Option3": "mentalCare-5-2",
+                            "Content3": "心理狀況",
+                            "sContent3": "心理狀況不論孕期或是產後，媽媽的心理狀況都不容忽視，需要家人和朋友給予關心與支持"
+                        },
+                        {
+                            "Option3": "mentalCare-5-4",
+                            "Content3": "身心狀況量測",
+                            "sContent3": "身心狀況量測 面對懷孕的訊息及接種而來要處理及面對的事情， 你可能有很多未知的恐懼及擔心，這是很正常的！ 讓我們來掌握一下你目前的身心狀況吧！"
+                        }
+                    ],
+                    "parenting-4-2": [
+                        {
+                            "Option3": "parenting-5-1",
+                            "Content3": "寶寶問題",
+                            "sContent3": "寶寶問題寶寶歸剛欸!! 到底怎麼辦？"
+                        },
+                        {
+                            "Option3": "parenting-5-2",
+                            "Content3": "如何照顧",
+                            "sContent3": "如何照顧真的很崩潰？到底要怎麼照顧？"
+                        },
+                        {
+                            "Option3": "parenting-5-3",
+                            "Content3": "寶寶發展",
+                            "sContent3": "寶寶發展寶寶的每一步發展都很重要，你了解孩子的成長軌跡嗎？"
+                        },
+                        {
+                            "Option3": "parenting-5-1",
+                            "Content3": "寶寶問題",
+                            "sContent3": "寶寶問題寶寶歸剛欸!! 到底怎麼辦？"
+                        },
+                        {
+                            "Option3": "parenting-5-2",
+                            "Content3": "如何照顧",
+                            "sContent3": "如何照顧真的很崩潰？到底要怎麼照顧？"
+                        },
+                        {
+                            "Option3": "parenting-5-3",
+                            "Content3": "寶寶發展",
+                            "sContent3": "寶寶發展寶寶的每一步發展都很重要，你了解孩子的成長軌跡嗎？"
+                        }
+                    ],
+                    "study-4-2": [
+                        {
+                            "Option3": "study-5-1",
+                            "Content3": "不想讓老師同學知道",
+                            "sContent3": "不想讓老師同學知道我不想讓學校老師和同學知道我女友懷孕了？"
+                        },
+                        {
+                            "Option3": "study-5-1",
+                            "Content3": "學校會強迫休學嗎？",
+                            "sContent3": "學校會強迫休學嗎？學校如果知道我女友懷孕，是不是會強迫我女友休學？"
+                        },
+                        {
+                            "Option3": "study-5-1",
+                            "Content3": "不想讓老師同學知道",
+                            "sContent3": "不想讓老師同學知道我不想讓學校老師和同學知道我女友懷孕了？"
+                        },
+                        {
+                            "Option3": "study-5-1",
+                            "Content3": "學校會強迫休學嗎？",
+                            "sContent3": "學校會強迫休學嗎？學校如果知道我女友懷孕，是不是會強迫我女友休學？"
+                        }
+                    ],
+                    "unintended-4-2": [
+                        {
+                            "Option3": "unintended-5-7",
+                            "Content3": "出養",
+                            "sContent3": "出養這裡可以打簡短文案，整體比較一致。"
+                        },
+                        {
+                            "Option3": "unintended-6-4",
+                            "Content3": "寄養",
+                            "sContent3": "寄養這裡可以打簡短文案，整體比較一致。"
+                        },
+                        {
+                            "Option3": "unintended-5-7",
+                            "Content3": "出養",
+                            "sContent3": "出養這裡可以打簡短文案，整體比較一致。"
+                        },
+                        {
+                            "Option3": "unintended-6-4",
+                            "Content3": "寄養",
+                            "sContent3": "寄養這裡可以打簡短文案，整體比較一致。"
+                        }
+                    ]
+                }
+            ],
+            "youngdad-3-4": [
+                {
+                    "familyRelation-4-4": [
+                        {
+                            "Option3": "familyRelation-4-1",
+                            "Content3": "會通報家長嗎？",
+                            "sContent3": "會通報家長嗎？我還沒20歲\/16歲會不會通報家長？"
+                        },
+                        {
+                            "Option3": "familyRelation-4-3",
+                            "Content3": "如何跟爸媽說懷孕了",
+                            "sContent3": "如何跟爸媽說懷孕了不知道怎麼跟我爸媽說，可能懷孕了…如何向親人告知及求助…"
+                        },
+                        {
+                            "Option3": "familyRelation-5-4",
+                            "Content3": "雙方家長溝通",
+                            "sContent3": "雙方家長溝通是否要\/如何讓雙方家長溝通？"
+                        }
+                    ],
+                    "intimacy-3-1": [
+                        {
+                            "Option3": "intimacy-4-1",
+                            "Content3": "15 歲可以買保險套嗎",
+                            "sContent3": "15 歲可以買保險套嗎我想到藥局買保險套，15歲可以買嗎？"
+                        },
+                        {
+                            "Option3": "intimacy-4-2",
+                            "Content3": "可以買事後避孕藥嗎",
+                            "sContent3": "可以買事後避孕藥嗎我可以去藥局買事後避孕藥嗎？"
+                        },
+                        {
+                            "Option3": "intimacy-4-3",
+                            "Content3": "15歲可以買避孕藥嗎",
+                            "sContent3": "15歲可以買避孕藥嗎我現在15歲，可以自行去診所或是藥局購買事前避孕藥嗎？"
+                        },
+                        {
+                            "Option3": "intimacy-4-4",
+                            "Content3": "懷孕問題",
+                            "sContent3": "懷孕問題只在陰道口外面摩擦會懷孕嗎？ 隔著內褲愛撫還會懷孕嗎？體外射精、 安全期、月經來時發生性行為， 是不是不會懷孕？"
+                        },
+                        {
+                            "Option3": "intimacy-4-5",
+                            "Content3": "辨識情人需求",
+                            "sContent3": "辨識情人需求如何辨視你的情人也想要？ 要拒絕可以嗎？"
+                        }
+                    ],
+                    "youngdad-4-1": [
+                        {
+                            "Option3": "medical-4-1",
+                            "Content3": "我女友可以中止懷孕嗎？",
+                            "sContent3": "我女友可以中止懷孕嗎？一定要有家長簽同意書嗎？ 男方成年了可以幫忙簽嗎？"
+                        },
+                        {
+                            "Option3": "intimacy-4-2",
+                            "Content3": "可以買事後避孕藥嗎？",
+                            "sContent3": "可以買事後避孕藥嗎？我們可以去藥局買事後避孕藥嗎？"
+                        },
+                        {
+                            "Option3": "act-3-1",
+                            "Content3": "未成年拿避孕藥會被通報？",
+                            "sContent3": "未成年拿避孕藥會被通報？未成年去婦產科診所就醫  或是拿事後避孕藥會被通報嗎？"
+                        },
+                        {
+                            "Option3": "medical-4-8",
+                            "Content3": "如何驗孕 \/ 就醫",
+                            "sContent3": "如何驗孕 \/ 就醫怎麼樣確定有沒有懷孕？"
+                        },
+                        {
+                            "Option3": "medical-4-8",
+                            "Content3": "保險套戴反了",
+                            "sContent3": "保險套戴反了保險套戴反了、立刻翻過來，  這樣還會懷孕嗎？"
+                        },
+                        {
+                            "Option3": "medical-4-8",
+                            "Content3": "懷孕前的徵兆？",
+                            "sContent3": "懷孕前的徵兆？女友最近有胸部腫脹、頭痛、反胃、吃很多等狀況，跟懷孕的徵兆很像，這樣是懷孕嗎？還是只是月經快來呢？"
+                        },
+                        {
+                            "Option3": "medical-4-8",
+                            "Content3": "保險套破了",
+                            "sContent3": "保險套破了性行為結束後發現保險套破掉，立刻吃了事後避孕藥，還會懷孕嗎？"
+                        },
+                        {
+                            "Option3": "medical-4-9",
+                            "Content3": "吃避孕藥，月經沒來？",
+                            "sContent3": "吃避孕藥，月經沒來？吃了事後避孕藥、但是月經還沒有來？"
+                        },
+                        {
+                            "Option3": "medical-4-10",
+                            "Content3": "懷孕週數怎麼算？",
+                            "sContent3": "懷孕週數怎麼算？懷孕週數怎麼算？"
+                        },
+                        {
+                            "Option3": "medical-4-11",
+                            "Content3": "假性月經是什麼？",
+                            "sContent3": "假性月經是什麼？女友月經都有來？這樣還會懷孕嗎？"
+                        }
+                    ],
+                    "youngdad-4-2": [
+                        {
+                            "Option3": "act-4-3",
+                            "Content3": "我未滿16歲",
+                            "sContent3": "我未滿16歲我才14歲，和女友發生性行為後，好像懷孕了怎麼辦…"
+                        },
+                        {
+                            "Option3": "act-4-1",
+                            "Content3": "我未滿20歲",
+                            "sContent3": "我未滿20歲女友已經19歲了，可以自己決定要不要生嗎？ (112年修正成未滿18)"
+                        },
+                        {
+                            "Option3": "act-4-5",
+                            "Content3": "我已經成年",
+                            "sContent3": "我已經成年我已經成年，還會遇到什麼問題呢？"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+]
